@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img width="" height="" src="https://github.com/ThuneMatheo/ThuneMatheo/blob/main/Banner.png">
-- 🔭 I’m currently working on Obsidian.
+- 🔭 I’m currently working on fixing vrchat old mods.
 <!--
 **ThuneMatheo/ThuneMatheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
